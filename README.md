@@ -30,12 +30,12 @@ git clone https://github.com/In-vincible/Authorized_Node_APIs.git
 
 cd Authorized_Node_APIs
 
-``npm install``
-``npm install -g sequelize-cli`` # Installing sequelize-cli which is really useful.
-`` Setup server/config/config.json as per your db settings ``
-``createdb database-name(to be filled in config.json)``
-``sequelize db:migrate`` # Running migrations for creating tables in database.
-``npm run start:dev``
+``npm install``<br>
+``npm install -g sequelize-cli`` # Installing sequelize-cli which is really useful.<br>
+`` Setup server/config/config.json as per your db settings ``<br>
+``createdb database-name(to be filled in config.json)``<br>
+``sequelize db:migrate`` # Running migrations for creating tables in database.<br>
+``npm run start:dev``<br>
 
 
 # Api Documentation
